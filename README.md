@@ -4,6 +4,12 @@
 
 Flow control bootcamp: https://gist.github.com/zocom-christoffer-wallenberg/9680b2b564f424b67ec9cb331c59c3a7
 
+## Presentationer
+
+Intro till Python: https://docs.google.com/presentation/d/12hKqyrPsLJzL_tSXZEWKZxTYcvVYbsN7VPJKctXr3n8/edit?usp=sharing
+
+Villkor: https://docs.google.com/presentation/d/1ptDylLfXLyiYBsUA9ggFgaGp9lZ2CnpoGF1z89Bjb0s/edit?usp=sharing
+
 ## Artiklar
 
 Ladda ner Python: https://www.python.org/
